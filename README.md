@@ -1,10 +1,13 @@
 Kishan App
+
 Connecting Local Farmers with End Consumers
 
 Overview
+
 The Kishan App is an innovative platform designed to bridge the gap between local farmers and end consumers. By eliminating intermediary fees, the app empowers farmers to maximize their profit margins and ensures timely delivery and secure transactions for consumers.
 
 Features
+
 Reduced Transaction Times: Streamlined processes that cut transaction times by 30%.
 Profit Maximization: Direct connection between producers and consumers eliminates intermediary costs.
 Feedback System: Gathered insights from over 100 users to improve platform features and boost user satisfaction by 30%.
